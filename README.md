@@ -24,7 +24,7 @@ This will start the backend server required for the app.
 
 - Navigate to the project directory and run the app using the following command:  
    `flutter run`  
-   This will launch the app on the connected emulator or device.
+   This will launch the app on the connected emulator.
 
 ## Features
 - Browse a list of cars  
