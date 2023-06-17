@@ -1,6 +1,12 @@
 # ProductsAppFlutter
 This repository contains a Flutter project that aims to demonstrate how to display a dynamic list retrieved from an API. The project showcases browsing a list of cars and viewing their details. Additionally, it provides a dynamic search feature that allows users to search for a car by its name.
 
+## In-App Screenshots
+<p align="center">
+   <img src="https://github.com/MeriamBi/ProductsAppFlutter/assets/80844849/987f2bb4-f119-4913-bddd-7fd82113ef71" width="250">
+   <img src="https://github.com/MeriamBi/ProductsAppFlutter/assets/80844849/ee5e2e90-6dcb-420f-b1d8-1aaf4a427eee" width="250">
+</p>
+
 ## Setup and Run
 To run this project on your local machine, follow the steps below:
 
