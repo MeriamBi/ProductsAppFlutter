@@ -17,7 +17,7 @@ To run this project on your local machine, follow the steps below:
    If not, you can download and install Docker from the official website: [Docker Website](https://www.docker.com/)
 
 - Open the Docker application on your computer.  
-- If Docker is not running, start the Docker service by clicking on the Docker icon in your system tray or launching it from your applications menu.
+  If Docker is not running, start the Docker service by clicking on the Docker icon in your system tray or launching it from your applications menu.
    
 - Pull the Docker image required for running the app by executing the following command:  
    `docker pull meriambi/productapp:v1.0`
